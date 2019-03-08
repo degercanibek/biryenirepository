@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## This is just a test site
 
-You can use the [editor on GitHub](https://github.com/degercanibek/biryenirepository/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The sole purpose of this site (if it can be called as site) is for me to try GitHub Pages.
 
 ### Markdown
 
